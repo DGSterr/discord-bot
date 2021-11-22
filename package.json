@@ -1,6 +1,15 @@
 {
+  "name": "sterrbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Sterr",
+  "license": "ISC",
   "dependencies": {
     "discord.js": "^13.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
 
